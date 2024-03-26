@@ -1,3 +1,5 @@
 <?php
 
-echo "hallo";
+echo "Doei";
+
+echo 2+2;
